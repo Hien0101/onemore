@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../may-tinh"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "wed-ban-hang"
+  }
+}
