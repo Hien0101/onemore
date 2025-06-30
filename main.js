@@ -41,7 +41,7 @@ const procenterNice = document.getElementById("procenter-nice");
 const productesion = [
   {
     id: 1,
-    images: "./img/sanpham1.webp",
+    images: "./onemore/img/sanpham1.webp",
     name: " Nụ Hồng Trong Nắng Ban Mai",
     price: "1.730.000đ",
     oldPrice: "290.000đ",
@@ -51,7 +51,7 @@ const productesion = [
   },
   {
     id: 2,
-    images: "./img/sanpham2.webp",
+    images: "./onemore/img/sanpham2.webp",
     name: "Giấc Mơ Da Mịn Như Tơ",
     price: "730.000đ",
     perCent: "",
@@ -60,7 +60,7 @@ const productesion = [
   },
   {
     id: 3,
-    images: "./img/sanpha3.webp",
+    images: "./onemore/img/sanpha3.webp",
     name: "Làn Gió Mới Cho Da Em",
     price: "830.000đ",
     oldPrice: "290.000đ",
@@ -70,7 +70,7 @@ const productesion = [
   },
   {
     id: 4,
-    images: "./img/sanpham4.webp",
+    images: "./onemore/img/sanpham4.webp",
     name: "Ánh Nhìn Nhẹ Như Mây",
     price: "890.000đ",
     perCent: "",
@@ -121,7 +121,7 @@ const filterButton = document.querySelectorAll(".filter-btn");
 const productList = [
   {
     id: 1,
-    images: "./img/sanpham1.webp",
+    images: "./onemore/img/sanpham1.webp",
     name: "Chạm Nhẹ Vào Làn Da Xinh",
     price: "1.230.000đ",
     oldPrice: "1.590.000đ",
@@ -131,7 +131,7 @@ const productList = [
   },
   {
     id: 2,
-    images: "./img/sanpham2.webp",
+    images: "./onemore/img/sanpham2.webp",
     name: "Em Là Hương Sớm Tinh Khôi",
     price: "2.130.000đ",
     perCent: "",
@@ -140,7 +140,7 @@ const productList = [
   },
   {
     id: 3,
-    images: "./img/sanpha3.webp",
+    images: "./onemore/img/sanpha3.webp",
     name: "Hương Hoa Dịu Dàng Cho Mái Tóc",
     price: "2.230.000đ",
     oldPrice: "2.790.000đ",
@@ -150,7 +150,7 @@ const productList = [
   },
   {
     id: 4,
-    images: "./img/sanpham4.webp",
+    images: "./onemore/img/sanpham4.webp",
     name: "Suối Tóc Dài – Mềm Như Nhung",
     price: "930.000đ",
     perCent: "",
@@ -159,7 +159,7 @@ const productList = [
   },
   {
     id: 5,
-    images: "./img/sanpham5.webp",
+    images: "./onemore/img/sanpham5.webp",
     name: "Dầu Gội Thảo Mộc Cho Da Đầu Khỏe",
     price: "4.630.000đ",
     oldPrice: "4.990.000đ",
@@ -169,7 +169,7 @@ const productList = [
   },
   {
     id: 6,
-    images: "./img/sanpham6.webp",
+    images: "./onemore/img/sanpham6.webp",
     name: "Tóc Mượt Như Chạm Lụa",
     price: "1.430.000đ",
     oldPrice: "1.790.000đ",
@@ -179,7 +179,7 @@ const productList = [
   },
   {
     id: 7,
-    images: "./img/sanpham7.webp",
+    images: "./onemore/img/sanpham7.webp",
     name: "Sữa Tắm Dưỡng Da Từ Thiên Nhiên",
     price: "930.000đ",
     perCent: "",
@@ -188,7 +188,7 @@ const productList = [
   },
   {
     id: 8,
-    images: "./img/sanpham8.webp",
+    images: "./onemore/img/sanpham8.webp",
     name: "Tắm Như Ôm Trọn Mây Trời",
     price: "2.230.000đ",
     oldPrice: "2.890.000đ",
@@ -198,7 +198,7 @@ const productList = [
   },
   {
     id: 9,
-    images: "./img/sanpham9.webp",
+    images: "./onemore/img/sanpham9.webp",
     name: "Tinh Dầu Hoa Cho Tóc Bồng Bềnh",
     price: "6.230.000đ",
     perCent: "",
@@ -207,7 +207,7 @@ const productList = [
   },
   {
     id: 10,
-    images: "./img/sanpham10.webp",
+    images: "./onemore/img/sanpham10.webp",
     name: "Dưỡng Da Trong Từng Bọt Nhẹ",
     price: "2.630.000đ",
     oldPrice: "2.890.000đ",
@@ -475,7 +475,7 @@ orderPopup.addEventListener("click", showPopup);
 const proDuctList = [
   {
     id: 6,
-    images: "./img/sanpham6.webp",
+    images: "./onemore/img/sanpham6.webp",
     name: "Làn Da Dịu Êm Sau Mỗi Lần Tắm",
     price: "1.210.000đ",
     oldPrice: "1.890.000đ",
@@ -485,7 +485,7 @@ const proDuctList = [
   },
   {
     id: 7,
-    images: "./img/sanpham7.webp",
+    images: "./onemore/img/sanpham7.webp",
     name: "Dưỡng Da Trong Từng Bọt Nhẹ",
     price: "2.030.000đ",
     perCent: "",
@@ -494,7 +494,7 @@ const proDuctList = [
   },
   {
     id: 8,
-    images: "./img/sanpham8.webp",
+    images: "./onemore/img/sanpham8.webp",
     name: "Làn Da Em Mịn Như Mơ",
     price: "5.730.000đ",
     oldPrice: "6.190.000đ",
@@ -504,7 +504,7 @@ const proDuctList = [
   },
   {
     id: 9,
-    images: "./img/sanpham9.webp",
+    images: "./onemore/img/sanpham9.webp",
     name: "Kem Dưỡng Ẩm Dịu Nhẹ",
     price: "930.000đ",
     perCent: "",
@@ -513,7 +513,7 @@ const proDuctList = [
   },
   {
     id: 10,
-    images: "./img/sanpham10.webp",
+    images: "./onemore/img/sanpham10.webp",
     name: "Hương Hoa Mơ Cho Làn Da",
     price: "2.230.000đ",
     oldPrice: "2.890.000đ",
@@ -523,7 +523,7 @@ const proDuctList = [
   },
   {
     id: 11,
-    images: "./img/sanpham11.webp",
+    images: "./onemore/img/sanpham11.webp",
     name: "Kem Dưỡng Mỗi Đêm",
     price: "1.110.000đ",
     perCent: "",
@@ -532,7 +532,7 @@ const proDuctList = [
   },
   {
     id: 11,
-    images: "./img/sanpham11.webp",
+    images: "./onemore/img/sanpham11.webp",
     name: "Kem Dưỡng Da ",
     price: "2.030.000đ",
     perCent: "",
@@ -541,7 +541,7 @@ const proDuctList = [
   },
   {
     id: 12,
-    images: "./img/sanpham12.webp",
+    images: "./onemore/img/sanpham12.webp",
     name: "Hương Hoa Mơ Cho Làn Da Nhẹ Nhàng",
     price: "1.230.000đ",
     oldPrice: "1.590.000đ",
@@ -551,7 +551,7 @@ const proDuctList = [
   },
   {
     id: 13,
-    images: "./img/sanpham13.webp",
+    images: "./onemore/img/sanpham13.webp",
     name: "Vỗ Về Làn Da Sau Một Ngày Dài",
     price: "2.130.000đ",
     perCent: "",
@@ -560,7 +560,7 @@ const proDuctList = [
   },
   {
     id: 14,
-    images: "./img/sanpham14.webp",
+    images: "./onemore/img/sanpham14.webp",
     name: "Làn Da Em Mịn Như Mơ",
     price: "1.230.000đ",
     oldPrice: "1.790.000đ",
@@ -571,7 +571,7 @@ const proDuctList = [
   },
   {
     id: 15,
-    images: "./img/sanpham15.webp",
+    images: "./onemore/img/sanpham15.webp",
     name: "Tắm Xong Chỉ Muốn Ôm Lấy Da Mình",
     price: "4.230.000đ",
     perCent: "",
@@ -580,7 +580,7 @@ const proDuctList = [
   },
   {
     id: 16,
-    images: "./img/sanpham16.webp",
+    images: "./onemore/img/sanpham16.webp",
     name: "Mỗi Ngày Một Chút Dịu Dàng Cho Da  ",
     price: "5.230.000đ",
     oldPrice: "6.290.000đ",
@@ -590,7 +590,7 @@ const proDuctList = [
   },
   {
     id: 17,
-    images: "./img/sanpham5.webp",
+    images: "./onemore/img/sanpham5.webp",
     name: "Tái Tạo Da Với Tinh Túy Thiên Nhiên",
     price: "1.230.000đ",
     perCent: "",
@@ -599,7 +599,7 @@ const proDuctList = [
   },
   {
     id: 18,
-    images: "./img/sanpham11.webp",
+    images: "./onemore/img/sanpham11.webp",
     name: "Hương Hoa Mơ Cho Làn Da Nhẹ Nhàng",
     price: "2.430.000đ",
     oldPrice: "2.990.000đ",
@@ -609,7 +609,7 @@ const proDuctList = [
   },
   {
     id: 19,
-    images: "./img/sanpham8.webp",
+    images: "./onemore/img/sanpham8.webp",
     name: "Kem Dưỡng Ẩm Dịu Nhẹ Tự Nhiên",
     price: "2.230.000đ",
     oldPrice: "2.690.000đ",
@@ -619,7 +619,7 @@ const proDuctList = [
   },
   {
     id: 20,
-    images: "./img/sanpham12.webp",
+    images: "./onemore/img/sanpham12.webp",
     name: "Tinh Chất Dưỡng Mềm Như Tơ",
     price: "900.000đ",
     perCent: "",
