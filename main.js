@@ -284,7 +284,9 @@ function buypopup(product) {
     </div>
     </div>
     <div class="popup-finnoler">
-     <p class="popup-hightlight"> &#10148; Giỏ Hàng Hiện Có Sản Phẩm Này </p>
+     <p class="popup-hightlight"> &#10148; Giỏ Hàng Hiện Có Sản Phẩm Này
+
+     </p>
      <div class="popup-sailamogif">
      <h2 class="popup-senninor"> Tiến Hành Thanh Toán &#10140;</h2>
      </div>
